@@ -1,0 +1,7 @@
+{
+  "name": "Nushka Verify",
+  "description": "A multimodal debunking app that analyzes viral health claims using AI to contrast traditional knowledge with modern science.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
